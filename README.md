@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Look carefully browsers consol
 And send me  all details( in side of cons)
+# monaco-editer-his
